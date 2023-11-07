@@ -11,3 +11,11 @@ GPUCache/*
 backups/*
 history.data
 Session Storage/*
+Session Storage/LOG
+Local State
+lockfile
+Local State
+Local State
+Session Storage/000003.log
+Session Storage/CURRENT
+Session Storage/LOG
