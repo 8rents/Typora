@@ -9,3 +9,5 @@ Network/*
 typora.log
 GPUCache/*
 backups/*
+history.data
+Session Storage/*
