@@ -6,11 +6,11 @@
 
 ## How to use this repository
 
-### For Windows
+### Windows
 
 1. Clone this repo onto your computer to:
    ```bash
-   ~\AppData\Typora
+   ~\AppData\Roaming\Typora
    ```
 2. [Download and install Typora](https://download.typora.io/windows/typora-setup-x64.exe)
 3. Launch Typora

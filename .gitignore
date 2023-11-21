@@ -1,21 +1,19 @@
-
 Cache/*
 Code Cache/*
 DawnCache/*
 draftsRecover/*
-Local Storage/*
-Storage/*
 Network/*
+Local Storage/*
+Session Storage/
+Storage/*
 typora.log
 GPUCache/*
 backups/*
 history.data
-Session Storage/*
-Session Storage/LOG
 Local State
 lockfile
+profile.data
 Local State
-Local State
-Session Storage/000003.log
-Session Storage/CURRENT
-Session Storage/LOG
+history.data
+
+
