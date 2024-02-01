@@ -1,20 +1,18 @@
-Cache/*
-Code Cache/*
-DawnCache/*
-draftsRecover/*
-Network/*
-Local Storage/*
-Session Storage/
-Storage/*
-typora.log
-GPUCache/*
-backups/*
+backups/
+Cache/
+Code Cache/
+DawnCache/
+draftsRecover/
 history.data
+GPUCache/
 Local State
+Local Storage/
 lockfile
+Network/
 profile.data
-Local State
-history.data
+Session Storage/
+Storage/
+typora.log
 
 
-history.data
+
