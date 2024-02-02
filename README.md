@@ -1,28 +1,22 @@
 
 
-# ![Typora Icon](https://raw.githubusercontent.com/8rents/_/i/h1/typora.png) Typora 
+# ![Typora Icon](https://raw.githubusercontent.com/8rents/_/i/h1/typora.png) Typora --  *for* *`Windows`*
 
-## *for Windows*
-
-> ***Brent's Typora Settings & Preferences***
+> ***Brent's Typora Settings & Preferences for Windows OS***
 
 ---
 
 ## How to use this repository
 
-1. Clone this repo onto your computer to:
-   ```powershell
-   ~\AppData\Roaming\Typora
-   ```
-   
-2. Switch to the correct branch based on your platform:
+**Now that you've cloned the repository and are on the windows branch**
 
-   - **Windows**
-   
-3. Use the shortcut to download a Typora Installer
+1. Drop the Typora Folder onto the shortcut called
+   `Drop Typora Folder Here`
+
+2. Use the shortcut to download a Typora Installer
    `Download Typora Installer.url`
 
-4. **Install & Launch Typora**
+3. **Install & Launch Typora**
 
 
 ---
