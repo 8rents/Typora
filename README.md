@@ -1,24 +1,39 @@
+# ![Typora Icon](https://github.com/8rents/_/blob/i/icons/h1/typora.png?raw=true) Typora
 
-
-# ![Typora Icon](https://raw.githubusercontent.com/8rents/_/i/h1/typora.png) Typora --  *for* *`Windows`*
-
-> ***Brent's Typora Settings & Preferences for Windows OS***
+> ***Brent's Typora Settings & Preferences***
 
 ---
 
-## How to use this repository
+## Getting Typora synced on Windows
 
-**Now that you've cloned the repository and are on the windows branch**
+1. Clone the Git Repo and check out the `windows` branch
 
-1. Drop the Typora Folder onto the shortcut called
-   `Drop Typora Folder Here`
+   ```powershell
+   git clone https://github.com/8rents/Typora "~\AppData\Roaming\Typora"
+   ```
 
-2. Use the shortcut to download a Typora Installer
-   `Download Typora Installer.url`
+2. Install Typora with `scoop`
 
-3. **Install & Launch Typora**
+   ```powershell
+   scoop install typora
+   ```
+
+3. Open Typora
+
+   ```powershell
+   ii "~\scoop\apps\typora\current\Typora.exe"
+   ```
+
+## Here's all the steps in One
+
+```powershell
+git clone https://github.com/8rents/Typora "~\AppData\Roaming\Typora"; scoop install typora; ii "~\scoop\apps\typora\current\Typora.exe"
+```
+
+**Now You're up & running!**
 
 
 ---
 
-**🤍2024 [Brenton Holiday](https://brenton.holiday/)**
+**🤍2024 [Brenton Holiday](https://brenton.holiday/links)**
+
