@@ -9,7 +9,7 @@
 1. Clone the Git Repo and check out the `windows` branch
 
    ```powershell
-   git clone https://github.com/8rents/Typora "~\AppData\Roaming\Typora"
+   git clone https://github.com/8rents/Typora $HOME\AppData\Roaming\Typora
    ```
 
 2. Install Typora with `scoop`
