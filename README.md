@@ -4,36 +4,23 @@
 
 ---
 
-## Getting Typora synced on Windows
+## How to use this repository
 
-1. Clone the Git Repo and check out the `windows` branch
+### Windows
 
-   ```powershell
-   git clone https://github.com/8rents/Typora $HOME\AppData\Roaming\Typora
+1. Clone this repo onto your computer to:
+   ```bash
+   ~\AppData\Roaming\Typora
    ```
+2. [Download and install Typora](https://download.typora.io/windows/typora-setup-x64.exe)
+3. Launch Typora
 
 2. Install Typora with `scoop`
 
    ```powershell
    scoop install typora
-   ```
-
-3. Open Typora
-
-   ```powershell
-   ii "~\scoop\apps\typora\current\Typora.exe"
-   ```
-
-## Here's all the steps in One
-
-```powershell
-git clone https://github.com/8rents/Typora "~\AppData\Roaming\Typora"; scoop install typora; ii "~\scoop\apps\typora\current\Typora.exe"
-```
-
-**Now You're up & running!**
 
 
 ---
 
 **🤍2024 [Brenton Holiday](https://brenton.holiday/links)**
-
