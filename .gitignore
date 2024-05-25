@@ -1,18 +1,17 @@
-backups/
-Cache/
-Code Cache/
-DawnCache/
-draftsRecover/
-history.data
-GPUCache/
-Local State
-Local Storage/
-lockfile
-Network/
-profile.data
+Cache/*
+Code Cache/*
+DawnCache/*
+draftsRecover/*
+Network/*
+Local Storage/*
 Session Storage/
-Storage/
+Storage/*
 typora.log
-
+GPUCache/*
+backups/*
+history.data
+Local State
+lockfile
+profile.data
 
 
