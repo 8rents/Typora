@@ -1,4 +1,4 @@
-# Typora
+# ![Typora Icon](https://github.com/8rents/_/blob/i/icons/h1/typora.png?raw=true) Typora
 
 > ***Brent's Typora Settings & Preferences***
 
@@ -15,9 +15,12 @@
 2. [Download and install Typora](https://download.typora.io/windows/typora-setup-x64.exe)
 3. Launch Typora
 
+2. Install Typora with `scoop`
 
+   ```powershell
+   scoop install typora
 
 
 ---
 
-**🤍2023 [Brenton Holiday](https://brenton.holiday/links)**
+**🤍2024 [Brenton Holiday](https://brenton.holiday/links)**
