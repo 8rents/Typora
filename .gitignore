@@ -13,5 +13,7 @@ history.data
 Local State
 lockfile
 profile.data
-
-
+DawnGraphiteCache/*
+DawnWebGPUCache/*
+Shared Dictionary/*
+SharedStorage
