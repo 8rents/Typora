@@ -41,18 +41,18 @@
 	--active-file-bg-color: #dadada;
 	--active-file-bg-color: rgba(32, 43, 51, 0.63);
 	--active-file-text-color: white;
-	--bg-color: #222;
-	--text-color: #eee;
-	--control-text-color: #eee;
-	--rawblock-edit-panel-bd: #111;
+	--bg-color: #f3f2ee;
+	--text-color: #1f0909;
+	--control-text-color: #444;
+	--rawblock-edit-panel-bd: #e5e5e5;
 
-	--select-text-bg-color: #222;
+	--select-text-bg-color: rgba(32, 43, 51, 0.63);
   --select-text-font-color: white;
 }
 
 pre {
-	--select-text-bg-color: #222;
-	--select-text-font-color: #eee;
+	--select-text-bg-color: #36284e;
+	--select-text-font-color: #fff;
 }
 
 html {
@@ -63,7 +63,7 @@ html {
 html, body {
 	background-color: #f3f2ee;
 	font-family: "PT Serif", 'Times New Roman', Times, serif;
-	color: #222;
+	color: #1f0909;
 	line-height: 1.5em;
 }
 
@@ -175,7 +175,7 @@ h1 {
 
 a {
 	text-decoration: none;
-	color: #fff;
+	color: #065588;
 }
 a:hover,
 a:active {
@@ -212,7 +212,7 @@ ol {
 }
 /* tables */
 .md-meta,.md-before, .md-after {
-	color:#ddd;
+	color:#999;
 }
 
 table {
@@ -236,7 +236,7 @@ td {
 
 code,
 .md-fences {
-	background-color: #000;
+	background-color: #dadada;
 }
 
 code {
@@ -268,10 +268,6 @@ h1 {
 p + ul,
 p + ol{
 	margin-top: .5em;
-}
-p {
-	margin-bottom: 0px;
-	padding-bottom: 0px;
 }
 
 h3 + ul,
@@ -310,11 +306,11 @@ hr {
 	border-left: none;
 }
 h1 {
-	border-color: #ddd;
+	border-color: #c5c5c5;
 }
 blockquote {
-	border-color: #555;
-	color: #eee;
+	border-color: #bababa;
+	color: #656565;
 }
 
 blockquote ul,
@@ -326,13 +322,13 @@ blockquote ol {
 	background-color: transparent;
 }
 thead {
-	background-color: #fff;
+	background-color: #dadada;
 }
 tr:nth-child(even) {
-	background: #333;
+	background: #e8e7e7;
 }
 hr {
-	border-color: #ccc;
+	border-color: #c5c5c5;
 }
 .task-list{
 	padding-left: 1rem;
@@ -350,8 +346,8 @@ hr {
   	height: 1.6rem;
 	vertical-align: middle;
 	text-align: center;
-	color: #222;
-	background-color: #eee;
+	color: #ddd;
+	background-color: #F3F2EE;
 }
 
 .md-task-list-item > input:checked:before,
@@ -361,7 +357,7 @@ hr {
 
 #write pre.md-meta-block {
 	min-height: 1.875rem;
-	color: #eee;
+	color: #555;
 	border: 0px;
 	background: transparent;
 	margin-top: -4px;
@@ -370,7 +366,7 @@ hr {
 }
 
 .md-image>.md-meta {
-	color: #eee;
+	color: #9B5146;
 }
 
 .md-image>.md-meta{
@@ -380,13 +376,13 @@ hr {
 
 #write>h3.md-focus:before{
 	left: -1.5rem;
-	color:#eee;
-	border-color:#222;
+	color:#999;
+	border-color:#999;
 }
 #write>h4.md-focus:before{
 	left: -1.5rem;
 	top: .25rem;
-	color:#eee;
+	color:#999;
 	border-color:#999;
 }
 #write>h5.md-focus:before{
@@ -398,8 +394,8 @@ hr {
 #write>h6.md-focus:before{
 	left: -1.5rem;
 	top: 0.3125rem;
-	color:#eee;
-	border-color:#222;
+	color:#999;
+	border-color:#999;
 }
 
 .md-toc:focus .md-toc-content{
@@ -407,19 +403,19 @@ hr {
 }
 
 .md-toc-content:empty:before{
-	color: #eee;
+	color: #065588;
 }
 .md-toc-item {
-	color: #eee;
+	color: #065588;
 }
 #write div.md-toc-tooltip {
-	background-color: #000;
+	background-color: #f3f2ee;
 }
 
 #typora-sidebar {
-	background-color: #111;
-	-webkit-box-shadow: 0 6px 12px #111;
-  	box-shadow: 0 6px 12px #111;
+	background-color: #f3f2ee;
+	-webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.375);
+  	box-shadow: 0 6px 12px rgba(0, 0, 0, 0.375);
 }
 
 .pin-outline #typora-sidebar {
@@ -433,13 +429,13 @@ hr {
 }
 
 .outline-item:hover {
-  background-color: #222;
-  border-left: 28px solid #000;
-  border-right: 18px solid #000;
+  background-color: #dadada;
+  border-left: 28px solid #dadada;
+  border-right: 18px solid #dadada;
 }
 
 .typora-node .outline-item:hover {
-  	border-right: 28px solid #444;
+  	border-right: 28px solid #dadada;
 }
 
 .outline-expander:before {
@@ -455,7 +451,7 @@ hr {
 }
 
 .modal-content {
-	background-color: #444;
+	background-color: #f3f2ee;
 }
 
 .auto-suggest-container ul li {
@@ -467,12 +463,12 @@ hr {
 .megamenu-menu,
 #top-titlebar, #top-titlebar *,
 .megamenu-content {
-	background: #111;
-	color: #ddd;
+	background: #f3f2ee;
+	color: #1f0909;
 }
 
 .megamenu-menu-header {
-	border-bottom: 1px dashed #111;
+	border-bottom: 1px dashed #202B33;
 }
 
 .megamenu-menu {
@@ -486,21 +482,21 @@ header, .context-menu, .megamenu-content, footer {
 }
 
 #megamenu-back-btn {
-	color: #111;
-	border-color: #111;
+	color: #1f0909;
+	border-color: #1f0909;
 }
 
 .megamenu-menu-header #megamenu-menu-header-title:before {
-	color: #ddd;
+	color: #1f0909;
 }
 
 .megamenu-menu-list li a:hover, .megamenu-menu-list li a.active {
 	color: inherit;
-	background-color: #222;
+	background-color: #e8e7df;
 }
 
 .long-btn:hover {
-	background-color: #111;
+	background-color: #e8e7df;
 }
 
 #recent-file-panel tbody tr:nth-child(2n-1) {
@@ -512,7 +508,7 @@ header, .context-menu, .megamenu-content, footer {
 }
 
 .megamenu-menu-panel .btn {
-	background-color: #111;
+	background-color: #D2D1D1;
 }
 
 .btn-default {
@@ -521,7 +517,7 @@ header, .context-menu, .megamenu-content, footer {
 
 .typora-sourceview-on #toggle-sourceview-btn,
 .ty-show-word-count #footer-word-count {
-	background: #222;
+	background: #c7c5c5;
 }
 
 #typora-quick-open {
@@ -541,7 +537,7 @@ header, .context-menu, .megamenu-content, footer {
 }
 
 .file-list-item {
-	color: #eee;
+	color: #777;
 }
 
 .file-list-item.active {
@@ -562,7 +558,7 @@ header, .context-menu, .megamenu-content, footer {
 }
 
 .file-library-node.active>.file-node-background{
-	background-color: #111;
+	background-color: rgba(32, 43, 51, 0.63);
 	background-color: var(--active-file-bg-color);
 }
 
@@ -578,7 +574,7 @@ header, .context-menu, .megamenu-content, footer {
 }
 
 input {
-	border: 1px solid #222;
+	border: 1px solid #aaa;
 }
 
 .megamenu-menu-header #megamenu-menu-header-title,
@@ -588,7 +584,7 @@ input {
 }
 
 .dropdown-menu .divider {
-	border-color: #111;
+	border-color: #e5e5e5;
 	opacity: 1;
 }
 
@@ -603,7 +599,7 @@ input {
 }
 
 .ty-preferences .window-header {
-	border-bottom: 1px dashed #444;
+	border-bottom: 1px dashed #202B33;
 	box-shadow: none;
 }
 
