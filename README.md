@@ -1,6 +1,6 @@
 # ![Typora Icon](https://github.com/8rents/_/blob/i/icons/h1/typora.png?raw=true) Typora
 
-> ***Brent's Typora Settings & Preferences***
+> *Brent's Typora Settings & Preferences*
 
 ---
 
@@ -8,19 +8,27 @@
 
 ### Windows
 
-1. Clone this repo onto your computer to:
-   ```bash
-   ~\AppData\Roaming\Typora
-   ```
-2. [Download and install Typora](https://download.typora.io/windows/typora-setup-x64.exe)
-3. Launch Typora
+I recommend installing Typora with `scoop` package manager. For help installing and using scoop see here:
 
-2. Install Typora with `scoop`
+https://scoop.sh/
 
+If you don't want to use scoop you can download it directly here:
+
+https://download.typora.io/windows/typora-setup-x64.exe
+
+1. Install Typora with scoop
    ```powershell
    scoop install typora
-
+   ```
+2. Clone this repo onto your computer to:
+   ```bash
+   git clone https://github.com/8rents/Typora $HOME\AppData\Roaming\Typora
+   ```
+3. Launch Typora
+   ```powershell
+   ii $HOME\scoop\apps\typora\current\Typora.exe
+   ```
 
 ---
 
-**🤍2024 [Brenton Holiday](https://brenton.holiday/links)**
+**🤍2024 [Brenton Holiday](https://brenton.holiday)**
