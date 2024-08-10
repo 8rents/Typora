@@ -147,3 +147,41 @@ INFO 8/10/2024, 12:00:38 PM  ----------------before-quit-----------------
 INFO 8/10/2024, 12:00:38 PM  ------------------will-quit------------------
 INFO 8/10/2024, 12:00:38 PM  -----------------quit------------------
 INFO 8/10/2024, 12:00:38 PM  closeLogging
+INFO 8/10/2024, 12:22:27 PM  launch with argv [D:\Repo\Apps\Windows\Data\Typora\Typora.exe]
+INFO 8/10/2024, 12:22:27 PM  start LM in devVersion=false
+INFO 8/10/2024, 12:22:27 PM  [watch L]
+INFO 8/10/2024, 12:22:27 PM  [L] installDate is 8/10/2024, trail remains: 15 days
+INFO 8/10/2024, 12:22:27 PM  [watch L] hasL: false
+INFO 8/10/2024, 12:22:27 PM  ------------------start------------------
+INFO 8/10/2024, 12:22:27 PM  typora version: 1.7.6
+INFO 8/10/2024, 12:22:27 PM  undefined
+INFO 8/10/2024, 12:22:27 PM  [Raven] instanceKey = 485e15af-e176-4ce6-9782-70baf2ae8893
+user-dict.json not found
+INFO 8/10/2024, 12:22:27 PM  [focus] 2
+INFO 8/10/2024, 12:22:27 PM  [Raven] userId = 75aae8f8-a7ca-4465-963f-4dcab5a6de18
+INFO 8/10/2024, 12:22:27 PM  synced recovery
+INFO 8/10/2024, 12:22:28 PM  [blur] 2
+INFO 8/10/2024, 12:22:28 PM  [win] blur
+INFO 8/10/2024, 12:22:28 PM  [focus] 1
+INFO 8/10/2024, 12:22:28 PM  handle document.loadData
+INFO 8/10/2024, 12:22:28 PM  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 8/10/2024, 12:22:28 PM  [RenderProcess 2][Log] reset NodeMap
+INFO 8/10/2024, 12:22:28 PM  synced recovery
+INFO 8/10/2024, 12:22:28 PM  [blur] 1
+INFO 8/10/2024, 12:22:28 PM  [focus] 2
+INFO 8/10/2024, 12:22:28 PM  [RenderProcess 2][Log] onBecomeActive
+INFO 8/10/2024, 12:22:28 PM  [RenderProcess 2][Log] File.activeWindow = true
+INFO 8/10/2024, 12:22:29 PM  [blur] 2
+INFO 8/10/2024, 12:22:29 PM  [win] blur
+INFO 8/10/2024, 12:22:29 PM  [focus] 1
+INFO 8/10/2024, 12:22:29 PM  [focus] 2
+INFO 8/10/2024, 12:22:29 PM  [blur] 2
+INFO 8/10/2024, 12:22:29 PM  [win] blur
+INFO 8/10/2024, 12:22:31 PM  [focus] 2
+INFO 8/10/2024, 12:22:32 PM  [blur] 2
+INFO 8/10/2024, 12:22:32 PM  [win] blur
+INFO 8/10/2024, 12:22:32 PM  [blur] 2
+INFO 8/10/2024, 12:22:32 PM  [win] blur
+INFO 8/10/2024, 12:22:33 PM  [focus] 2
+INFO 8/10/2024, 12:22:35 PM  [blur] 2
+INFO 8/10/2024, 12:22:35 PM  [win] blur
