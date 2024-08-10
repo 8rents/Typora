@@ -6,13 +6,10 @@ Network/*
 Local Storage/*
 Session Storage/
 Storage/*
-typora.log
 GPUCache/*
 backups/*
-history.data
 Local State
 lockfile
 DawnGraphiteCache/*
 DawnWebGPUCache/*
 Shared Dictionary/*
-SharedStorage

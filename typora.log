@@ -1,0 +1,149 @@
+INFO 8/10/2024, 11:58:26 AM  launch with argv [D:\Repo\Apps\Windows\Data\Typora\Typora.exe]
+INFO 8/10/2024, 11:58:26 AM  launchFromDiffVersion, pre version is undefined
+INFO 8/10/2024, 11:58:26 AM  start LM in devVersion=false
+INFO 8/10/2024, 11:58:26 AM  re-write InstallDate
+INFO 8/10/2024, 11:58:26 AM  writeInstallDate fromBTime=undefined
+INFO 8/10/2024, 11:58:26 AM  [watch L]
+INFO 8/10/2024, 11:58:26 AM  [L] installDate is 8/10/2024, trail remains: 15 days
+INFO 8/10/2024, 11:58:26 AM  [watch L] hasL: false
+INFO 8/10/2024, 11:58:26 AM  overwriteThemeFolder
+INFO 8/10/2024, 11:58:26 AM  ------------------start------------------
+INFO 8/10/2024, 11:58:26 AM  typora version: 1.7.6
+INFO 8/10/2024, 11:58:26 AM  undefined
+INFO 8/10/2024, 11:58:26 AM  [Raven] instanceKey = 8e629d6f-57df-40d1-98dc-d2cb5730059d
+INFO 8/10/2024, 11:58:26 AM  [Raven] userId = 75aae8f8-a7ca-4465-963f-4dcab5a6de18
+INFO 8/10/2024, 11:58:26 AM  [focus] 2
+INFO 8/10/2024, 11:58:26 AM  synced recovery
+INFO 8/10/2024, 11:58:28 AM  [blur] 2
+INFO 8/10/2024, 11:58:28 AM  [win] blur
+INFO 8/10/2024, 11:58:28 AM  [focus] 1
+INFO 8/10/2024, 11:58:28 AM  handle document.loadData
+INFO 8/10/2024, 11:58:28 AM  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 8/10/2024, 11:58:28 AM  [RenderProcess 2][Log] reset NodeMap
+INFO 8/10/2024, 11:58:28 AM  synced recovery
+INFO 8/10/2024, 11:58:28 AM  [blur] 1
+INFO 8/10/2024, 11:58:28 AM  [focus] 2
+INFO 8/10/2024, 11:58:28 AM  [RenderProcess 2][Log] onBecomeActive
+INFO 8/10/2024, 11:58:28 AM  [RenderProcess 2][Log] File.activeWindow = true
+INFO 8/10/2024, 11:58:30 AM  [blur] 2
+INFO 8/10/2024, 11:58:30 AM  [win] blur
+INFO 8/10/2024, 11:58:30 AM  [focus] 3
+INFO 8/10/2024, 11:58:37 AM  [focus] 4
+INFO 8/10/2024, 11:58:38 AM  start downloading https://download.typora.io/windows/typora-update-x64-1.9.5.exe
+Invalid call: trying to set value but the progress bar is already completed.
+Invalid call: trying to set value but the progress bar is already completed.
+INFO 8/10/2024, 11:58:40 AM  [focus] 1
+INFO 8/10/2024, 11:58:40 AM  [blur] 1
+INFO 8/10/2024, 11:58:41 AM  [focus] 1
+INFO 8/10/2024, 11:58:42 AM  C:\Users\sfplinternet\AppData\Local\Temp\Typora\typora-update-x64-1.9.5.exe
+INFO 8/10/2024, 11:58:42 AM  synced recovery
+INFO 8/10/2024, 11:58:42 AM  ----------------before-quit-----------------
+INFO 8/10/2024, 11:58:42 AM  [focus] 2
+INFO 8/10/2024, 11:58:42 AM  synced recovery
+INFO 8/10/2024, 11:58:42 AM  ----------------before-quit-----------------
+INFO 8/10/2024, 11:58:42 AM  ------------------will-quit------------------
+INFO 8/10/2024, 11:58:43 AM  -----------------quit------------------
+INFO 8/10/2024, 11:58:43 AM  closeLogging
+INFO 8/10/2024, 11:58:56 AM  launch with argv [C:\Users\sfplinternet\AppData\Local\Programs\Typora\Typora.exe, --reopen-file]
+INFO 8/10/2024, 11:58:56 AM  launchFromDiffVersion, pre version is 1.7.6
+INFO 8/10/2024, 11:58:56 AM  start LM in devVersion=false
+INFO 8/10/2024, 11:58:56 AM  [watch L]
+INFO 8/10/2024, 11:58:56 AM  [L] installDate is 8/10/2024, trail remains: 15 days
+INFO 8/10/2024, 11:58:56 AM  [watch L] hasL: false
+INFO 8/10/2024, 11:58:56 AM  cleanupOlderCache
+INFO 8/10/2024, 11:58:56 AM  [Raven] instanceKey = 5a725313-a24d-443e-a784-c04606c187f9
+INFO 8/10/2024, 11:58:56 AM  [Raven] userId = 75aae8f8-a7ca-4465-963f-4dcab5a6de18
+INFO 8/10/2024, 11:58:57 AM  overwriteThemeFolder
+INFO 8/10/2024, 11:58:57 AM  ------------------start------------------
+INFO 8/10/2024, 11:58:57 AM  typora version: 1.9.5
+INFO 8/10/2024, 11:58:57 AM  [focus] 1
+user-dict.json not found
+INFO 8/10/2024, 11:58:57 AM  [blur] 1
+INFO 8/10/2024, 11:58:57 AM  [focus] 2
+INFO 8/10/2024, 11:58:57 AM  synced recovery
+ERROR 8/10/2024, 11:58:58 AM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114393)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 8/10/2024, 11:58:58 AM  handle document.loadData
+ERROR 8/10/2024, 11:58:58 AM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114393)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 8/10/2024, 11:58:58 AM  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 8/10/2024, 11:58:58 AM  [RenderProcess 2][Log] reset NodeMap
+INFO 8/10/2024, 11:58:58 AM  synced recovery
+INFO 8/10/2024, 11:58:58 AM  [blur] 2
+INFO 8/10/2024, 11:58:58 AM  [win] blur
+INFO 8/10/2024, 11:58:58 AM  [focus] 1
+INFO 8/10/2024, 11:58:59 AM  [focus] 2
+INFO 8/10/2024, 11:58:59 AM  [RenderProcess 2][Log] onBecomeActive
+INFO 8/10/2024, 11:58:59 AM  [RenderProcess 2][Log] File.activeWindow = true
+ERROR 8/10/2024, 11:59:07 AM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114393)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 8/10/2024, 11:59:07 AM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114393)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 8/10/2024, 11:59:07 AM  updateTheme
+ERROR 8/10/2024, 11:59:07 AM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114393)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 8/10/2024, 11:59:07 AM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114393)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 8/10/2024, 11:59:18 AM  window.File && (function(){File.option.enableAutoSave = true;})();
+INFO 8/10/2024, 11:59:28 AM  window.File && (function(){File.option.preferCRLF = false;})();
+INFO 8/10/2024, 11:59:36 AM  File.option.applyImageMoveForWeb = true
+INFO 8/10/2024, 11:59:38 AM  File.option.useRelativePathForImg = true
+INFO 8/10/2024, 11:59:39 AM  File.option.relativePathWithDot = true
+INFO 8/10/2024, 11:59:48 AM  window.File && (function() {		File.option.smartDash = true;	})();
+INFO 8/10/2024, 11:59:49 AM  window.File && (function() {		File.option.smartDash = true;	})();
+INFO 8/10/2024, 12:00:09 PM  window.File && (function(){document.body.classList.remove("show-footer"),document.body.classList.add("hide-footer")})();
+INFO 8/10/2024, 12:00:10 PM  window.File && (function(){document.body.classList.add("show-footer"),document.body.classList.remove("hide-footer")})();
+INFO 8/10/2024, 12:00:11 PM  window.File && (function(){document.body.classList.remove("show-footer"),document.body.classList.add("hide-footer")})();
+INFO 8/10/2024, 12:00:24 PM  File.option.sendAnonymousUsage = false;
+INFO 8/10/2024, 12:00:28 PM  synced recovery
+INFO 8/10/2024, 12:00:28 PM  ----------------before-quit-----------------
+INFO 8/10/2024, 12:00:28 PM  ------------------will-quit------------------
+INFO 8/10/2024, 12:00:28 PM  -----------------quit------------------
+INFO 8/10/2024, 12:00:28 PM  closeLogging
+INFO 8/10/2024, 12:00:31 PM  launch with argv [D:\Repo\Apps\Windows\Data\Typora\Typora.exe]
+INFO 8/10/2024, 12:00:31 PM  launchFromDiffVersion, pre version is 1.9.5
+INFO 8/10/2024, 12:00:31 PM  start LM in devVersion=false
+INFO 8/10/2024, 12:00:31 PM  [watch L]
+INFO 8/10/2024, 12:00:31 PM  [L] installDate is 8/10/2024, trail remains: 15 days
+INFO 8/10/2024, 12:00:31 PM  [watch L] hasL: false
+INFO 8/10/2024, 12:00:31 PM  cleanupOlderCache
+INFO 8/10/2024, 12:00:31 PM  [Raven] instanceKey = dead6002-6b1a-4e95-9c95-ea136c7a074e
+INFO 8/10/2024, 12:00:31 PM  [Raven] userId = 75aae8f8-a7ca-4465-963f-4dcab5a6de18
+INFO 8/10/2024, 12:00:32 PM  [focus] 1
+INFO 8/10/2024, 12:00:32 PM  overwriteThemeFolder
+INFO 8/10/2024, 12:00:32 PM  ------------------start------------------
+INFO 8/10/2024, 12:00:32 PM  typora version: 1.7.6
+INFO 8/10/2024, 12:00:32 PM  undefined
+user-dict.json not found
+INFO 8/10/2024, 12:00:32 PM  [blur] 1
+INFO 8/10/2024, 12:00:32 PM  [focus] 2
+INFO 8/10/2024, 12:00:32 PM  synced recovery
+INFO 8/10/2024, 12:00:32 PM  updateTheme
+INFO 8/10/2024, 12:00:33 PM  handle document.loadData
+INFO 8/10/2024, 12:00:33 PM  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 8/10/2024, 12:00:33 PM  [RenderProcess 2][Log] reset NodeMap
+INFO 8/10/2024, 12:00:33 PM  synced recovery
+INFO 8/10/2024, 12:00:34 PM  [RenderProcess 2][Log] onBecomeActive
+INFO 8/10/2024, 12:00:34 PM  [RenderProcess 2][Log] File.activeWindow = true
+INFO 8/10/2024, 12:00:34 PM  [blur] 2
+INFO 8/10/2024, 12:00:34 PM  [win] blur
+INFO 8/10/2024, 12:00:34 PM  [focus] 1
+INFO 8/10/2024, 12:00:34 PM  [focus] 2
+INFO 8/10/2024, 12:00:34 PM  File.option.noHintForUnibody=true;
+INFO 8/10/2024, 12:00:38 PM  synced recovery
+INFO 8/10/2024, 12:00:38 PM  ----------------before-quit-----------------
+INFO 8/10/2024, 12:00:38 PM  ------------------will-quit------------------
+INFO 8/10/2024, 12:00:38 PM  -----------------quit------------------
+INFO 8/10/2024, 12:00:38 PM  closeLogging
