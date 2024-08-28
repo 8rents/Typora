@@ -1,16 +1,10 @@
+/draftsRecover/*
+/backups/*
+/Code Cache/*                                         
+/DawnWebGPUCache/*
+/GPUCache/*
+/DawnCache/*
+/Shared Dictionary/*
+/Session Storage/*
+/Local Storage/*
 
-/draftsRecover
-/backups
-/Code Cache/js
-/Code Cache
-/DawnCache
-/DawnWebGPUCache
-/GPUCache
-/DawnGraphiteCache
-/DawnCache
-/Shared Dictionary
-/Session Storage
-/Local Storage
-/Code Cache
-/backups
-/DawnCache
