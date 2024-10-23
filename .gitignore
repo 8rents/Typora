@@ -8,3 +8,5 @@
 /Session Storage/*
 /Local Storage/*
 
+/DawnGraphiteCache
+/GPUCache

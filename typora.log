@@ -778,3 +778,65 @@ INFO 8/28/2024, 3:10:33 PM  synced recovery
 INFO 8/28/2024, 3:10:35 PM  synced recovery
 INFO 8/28/2024, 3:10:38 PM  [blur] 2
 INFO 8/28/2024, 3:10:38 PM  [win] blur
+INFO 10/22/2024, 4:13:07 PM  launch with argv [C:\Users\sfplinternet\scoop\apps\typora\current\Typora.exe]
+INFO 10/22/2024, 4:13:07 PM  start LM in devVersion=false
+INFO 10/22/2024, 4:13:07 PM  [watch L]
+INFO 10/22/2024, 4:13:07 PM  [L] installDate is 12/31/1969, trail remains: 0 days
+INFO 10/22/2024, 4:13:07 PM  [watch L] hasL: false
+INFO 10/22/2024, 4:13:07 PM  ------------------start------------------
+INFO 10/22/2024, 4:13:07 PM  typora version: 1.9.5
+INFO 10/22/2024, 4:13:07 PM  [Raven] instanceKey = c6503aef-9a66-48db-afb0-b1d4bf920250
+INFO 10/22/2024, 4:13:07 PM  [Raven] userId = 75aae8f8-a7ca-4465-963f-4dcab5a6de18
+user-dict.json not found
+INFO 10/22/2024, 4:13:07 PM  launch from abnormal quit
+INFO 10/22/2024, 4:13:07 PM  cleanupOlderCache
+INFO 10/22/2024, 4:13:08 PM  [focus] 1
+INFO 10/22/2024, 4:13:08 PM  recoverWindow {"id":2,"path":""}
+INFO 10/22/2024, 4:13:08 PM  [blur] 1
+INFO 10/22/2024, 4:13:08 PM  [focus] 2
+INFO 10/22/2024, 4:13:08 PM  [blur] 2
+INFO 10/22/2024, 4:13:08 PM  [win] blur
+INFO 10/22/2024, 4:13:08 PM  [focus] 1
+INFO 10/22/2024, 4:13:08 PM  synced recovery
+ERROR 10/22/2024, 4:13:09 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114393)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 10/22/2024, 4:13:09 PM  handle document.loadData
+ERROR 10/22/2024, 4:13:09 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114393)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 10/22/2024, 4:13:09 PM  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 10/22/2024, 4:13:09 PM  [RenderProcess 2][Log] reset NodeMap
+INFO 10/22/2024, 4:13:09 PM  synced recovery
+INFO 10/22/2024, 4:13:09 PM  [blur] 1
+INFO 10/22/2024, 4:13:09 PM  [focus] 2
+INFO 10/22/2024, 4:13:09 PM  [RenderProcess 2][Log] onBecomeActive
+INFO 10/22/2024, 4:13:09 PM  [RenderProcess 2][Log] File.activeWindow = true
+INFO 10/22/2024, 4:45:13 PM  [blur] 2
+INFO 10/22/2024, 4:45:13 PM  [win] blur
+INFO 10/22/2024, 5:58:02 PM  [focus] 1
+INFO 10/22/2024, 5:58:04 PM  [focus] 2
+INFO 10/22/2024, 5:58:06 PM  [blur] 2
+INFO 10/22/2024, 5:58:06 PM  [win] blur
+INFO 10/22/2024, 5:58:10 PM  [focus] 2
+INFO 10/22/2024, 5:58:10 PM  addRecentDocument
+INFO 10/22/2024, 5:58:10 PM  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 10/22/2024, 5:58:10 PM  [RenderProcess 2][Log] reset NodeMap
+INFO 10/22/2024, 5:58:10 PM  [RenderProcess 2][Log] readContentFrom C:\Users\sfplinternet\Sync\powershell\README.md
+INFO 10/22/2024, 5:58:10 PM  synced recovery
+INFO 10/22/2024, 5:58:17 PM  [blur] 2
+INFO 10/22/2024, 5:58:17 PM  [win] blur
+INFO 10/22/2024, 5:58:20 PM  [focus] 2
+INFO 10/22/2024, 5:58:24 PM  [blur] 2
+INFO 10/22/2024, 5:58:24 PM  [win] blur
+INFO 10/22/2024, 5:58:32 PM  [focus] 2
+INFO 10/22/2024, 5:58:35 PM  [blur] 2
+INFO 10/22/2024, 5:58:35 PM  [win] blur
+INFO 10/22/2024, 5:58:41 PM  [focus] 2
+INFO 10/22/2024, 5:58:44 PM  [blur] 2
+INFO 10/22/2024, 5:58:44 PM  [win] blur
+INFO 10/22/2024, 6:02:29 PM  [focus] 2
+INFO 10/22/2024, 6:02:43 PM  [blur] 2
+INFO 10/22/2024, 6:02:43 PM  [win] blur
