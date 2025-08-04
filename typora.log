@@ -840,3 +840,127 @@ INFO 10/22/2024, 5:58:44 PM  [win] blur
 INFO 10/22/2024, 6:02:29 PM  [focus] 2
 INFO 10/22/2024, 6:02:43 PM  [blur] 2
 INFO 10/22/2024, 6:02:43 PM  [win] blur
+INFO 8/4/2025, 4:53:25 PM  launch with argv [C:\Users\sfplinternet\Apps\Typora\Typora.exe]
+INFO 8/4/2025, 4:53:25 PM  ------------------start------------------
+DEBUG 8/4/2025, 4:53:25 PM  prepDatabase C:\Users\sfplinternet\AppData\Roaming\Typora\profile.data
+DEBUG 8/4/2025, 4:53:25 PM  prepDatabase C:\Users\sfplinternet\AppData\Roaming\Typora\history.data
+INFO 8/4/2025, 4:53:25 PM  OS is win32 10.0.26100
+INFO 8/4/2025, 4:53:25 PM  launchFromDiffVersion, pre version is 1.9.5
+INFO 8/4/2025, 4:53:25 PM  start LM in devVersion=false
+INFO 8/4/2025, 4:53:25 PM  [watch L]
+DEBUG 8/4/2025, 4:53:25 PM  [WindowsLicenseLocalStore] SLicense : 
+DEBUG 8/4/2025, 4:53:25 PM  onUnfillLicense
+DEBUG 8/4/2025, 4:53:25 PM  [WindowsLicenseLocalStore] IDate : 8/4/2025
+DEBUG 8/4/2025, 4:53:25 PM  trailRemains is 15
+INFO 8/4/2025, 4:53:25 PM  [L] installDate is 8/4/2025, trail remains: 15 days
+INFO 8/4/2025, 4:53:25 PM  [watch L] hasL: false
+INFO 8/4/2025, 4:53:25 PM  cleanupOlderCache
+INFO 8/4/2025, 4:53:26 PM  [focus] 1
+INFO 8/4/2025, 4:53:26 PM  overwriteThemeFolder
+INFO 8/4/2025, 4:53:26 PM  typora version: 1.10.8
+DEBUG 8/4/2025, 4:53:26 PM  app.openFile
+user-dict.json not found
+DEBUG 8/4/2025, 4:53:26 PM  added recovery 2 null  (0)
+INFO 8/4/2025, 4:53:26 PM  [blur] 1
+INFO 8/4/2025, 4:53:26 PM  [focus] 2
+DEBUG 8/4/2025, 4:53:26 PM  putAccelerator File -> &File
+DEBUG 8/4/2025, 4:53:26 PM  putAccelerator Edit -> &Edit
+DEBUG 8/4/2025, 4:53:26 PM  putAccelerator Paragraph -> &Paragraph
+DEBUG 8/4/2025, 4:53:26 PM  putAccelerator Format -> F&ormat
+DEBUG 8/4/2025, 4:53:26 PM  putAccelerator View -> &View
+DEBUG 8/4/2025, 4:53:26 PM  putAccelerator Themes -> &Themes
+DEBUG 8/4/2025, 4:53:26 PM  putAccelerator Help -> &Help
+INFO 8/4/2025, 4:53:27 PM  synced recovery
+INFO 8/4/2025, 4:53:27 PM  updateTheme
+DEBUG 8/4/2025, 4:53:27 PM  onUnfillLicense
+INFO 8/4/2025, 4:53:27 PM  handle document.loadData
+DEBUG 8/4/2025, 4:53:27 PM  document.loadData 0
+ERROR 8/4/2025, 4:53:27 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118139)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+ERROR 8/4/2025, 4:53:27 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118139)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+INFO 8/4/2025, 4:53:27 PM  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 8/4/2025, 4:53:27 PM  [RenderProcess 2][Log] reset NodeMap
+DEBUG 8/4/2025, 4:53:27 PM  added recovery 2   (0)
+INFO 8/4/2025, 4:53:27 PM  synced recovery
+INFO 8/4/2025, 4:53:28 PM  [RenderProcess 2][Log] onBecomeActive
+INFO 8/4/2025, 4:53:28 PM  [RenderProcess 2][Log] File.activeWindow = true
+ERROR 8/4/2025, 4:53:28 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118139)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+ERROR 8/4/2025, 4:53:28 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118139)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+INFO 8/4/2025, 4:53:29 PM  [blur] 2
+INFO 8/4/2025, 4:53:29 PM  [win] blur
+INFO 8/4/2025, 4:53:29 PM  [focus] 1
+INFO 8/4/2025, 4:53:29 PM  [focus] 2
+INFO 8/4/2025, 4:53:30 PM  [blur] 2
+INFO 8/4/2025, 4:53:30 PM  [win] blur
+INFO 8/4/2025, 4:53:52 PM  [focus] 2
+INFO 8/4/2025, 4:53:54 PM  synced recovery
+INFO 8/4/2025, 4:53:54 PM  ----------------before-quit-----------------
+INFO 8/4/2025, 4:53:54 PM  ------------------will-quit------------------
+INFO 8/4/2025, 4:53:54 PM  -----------------quit------------------
+INFO 8/4/2025, 4:53:54 PM  closeLogging
+INFO 8/4/2025, 4:54:27 PM  launch with argv [C:\Users\sfplinternet\Apps\Typora\Typora.exe]
+INFO 8/4/2025, 4:54:27 PM  ------------------start------------------
+DEBUG 8/4/2025, 4:54:27 PM  prepDatabase C:\Users\sfplinternet\AppData\Roaming\Typora\profile.data
+DEBUG 8/4/2025, 4:54:27 PM  prepDatabase C:\Users\sfplinternet\AppData\Roaming\Typora\history.data
+INFO 8/4/2025, 4:54:27 PM  OS is win32 10.0.26100
+INFO 8/4/2025, 4:54:27 PM  start LM in devVersion=false
+INFO 8/4/2025, 4:54:27 PM  [watch L]
+DEBUG 8/4/2025, 4:54:27 PM  [WindowsLicenseLocalStore] SLicense : 
+DEBUG 8/4/2025, 4:54:27 PM  onUnfillLicense
+DEBUG 8/4/2025, 4:54:27 PM  [WindowsLicenseLocalStore] IDate : 8/4/2025
+DEBUG 8/4/2025, 4:54:27 PM  trailRemains is 15
+INFO 8/4/2025, 4:54:27 PM  [L] installDate is 8/4/2025, trail remains: 15 days
+INFO 8/4/2025, 4:54:27 PM  [watch L] hasL: false
+INFO 8/4/2025, 4:54:27 PM  typora version: 1.10.8
+INFO 8/4/2025, 4:54:27 PM  updateTheme
+user-dict.json not found
+DEBUG 8/4/2025, 4:54:27 PM  app.openFile
+DEBUG 8/4/2025, 4:54:27 PM  putAccelerator File -> &File
+DEBUG 8/4/2025, 4:54:27 PM  putAccelerator Edit -> &Edit
+DEBUG 8/4/2025, 4:54:27 PM  putAccelerator Paragraph -> &Paragraph
+DEBUG 8/4/2025, 4:54:27 PM  putAccelerator Format -> F&ormat
+DEBUG 8/4/2025, 4:54:27 PM  putAccelerator View -> &View
+DEBUG 8/4/2025, 4:54:27 PM  putAccelerator Themes -> &Themes
+DEBUG 8/4/2025, 4:54:27 PM  putAccelerator Help -> &Help
+DEBUG 8/4/2025, 4:54:27 PM  added recovery 2 null  (0)
+INFO 8/4/2025, 4:54:27 PM  [focus] 2
+INFO 8/4/2025, 4:54:27 PM  synced recovery
+INFO 8/4/2025, 4:54:27 PM  [blur] 2
+INFO 8/4/2025, 4:54:27 PM  [win] blur
+INFO 8/4/2025, 4:54:27 PM  [focus] 1
+DEBUG 8/4/2025, 4:54:28 PM  onUnfillLicense
+ERROR 8/4/2025, 4:54:28 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118139)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+INFO 8/4/2025, 4:54:28 PM  handle document.loadData
+DEBUG 8/4/2025, 4:54:28 PM  document.loadData 0
+ERROR 8/4/2025, 4:54:28 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118139)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+INFO 8/4/2025, 4:54:28 PM  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 8/4/2025, 4:54:28 PM  [RenderProcess 2][Log] reset NodeMap
+DEBUG 8/4/2025, 4:54:28 PM  added recovery 2   (0)
+INFO 8/4/2025, 4:54:28 PM  synced recovery
+INFO 8/4/2025, 4:54:28 PM  [blur] 1
+INFO 8/4/2025, 4:54:28 PM  [focus] 2
+INFO 8/4/2025, 4:54:28 PM  [RenderProcess 2][Log] onBecomeActive
+INFO 8/4/2025, 4:54:28 PM  [RenderProcess 2][Log] File.activeWindow = true
+INFO 8/4/2025, 4:54:29 PM  [blur] 2
+INFO 8/4/2025, 4:54:29 PM  [win] blur
+INFO 8/4/2025, 4:54:29 PM  [focus] 1
+INFO 8/4/2025, 4:54:29 PM  [focus] 2
+INFO 8/4/2025, 4:54:30 PM  [blur] 2
+INFO 8/4/2025, 4:54:30 PM  [win] blur
+INFO 8/4/2025, 4:56:06 PM  [focus] 2
+INFO 8/4/2025, 4:56:07 PM  synced recovery
+INFO 8/4/2025, 4:56:07 PM  ----------------before-quit-----------------
+INFO 8/4/2025, 4:56:07 PM  ------------------will-quit------------------
+INFO 8/4/2025, 4:56:07 PM  -----------------quit------------------
+INFO 8/4/2025, 4:56:07 PM  closeLogging
