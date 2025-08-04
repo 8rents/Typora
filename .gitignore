@@ -1,14 +1,17 @@
-/draftsRecover/*
-/backups/*
-/Code Cache/*                                         
-/DawnWebGPUCache/*
-/GPUCache/*
-/DawnCache/*
-/Shared Dictionary/*
-/Session Storage/*
-/Local Storage/*
-/DawnGraphiteCache
+draftsRecover/
+backups/
+Cache/
+Code Cache/                                     
+DawnWebGPUCache/
+DawnCache/
+GPUCache/
+Network/
+Shared Dictionary/
+Session Storage/
+Local Storage/
+DawnGraphiteCache
 lockfile
 history.data
-/Local Storage
 typora.log
+SharedStorage
+SharedStorage-wal
