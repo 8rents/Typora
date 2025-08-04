@@ -8,17 +8,23 @@
 
 ### Windows
 
+To install Typora on Windows and restore it’s settings:
+
 1. Clone this repo onto your computer to:
    ```bash
-   ~\AppData\Roaming\Typora
+   $HOME\AppData\Roaming\Typora
    ```
-2. [Download and install Typora](https://download.typora.io/windows/typora-setup-x64.exe)
-3. Launch Typora
 
-2. Install Typora with `scoop`
+2. Then Install Typora using one of the methods below:
 
-   ```powershell
-   scoop install typora
+   * **[Install Typora Manually with direct download link](https://download.typora.io/windows/typora-setup-x64.exe)**
+   * Install with `scoop`
+     Have scoop installed, then run the following command:
+     ```powershell
+   	  scoop install typora
+   	```
+   
+   
 
 
 ---
