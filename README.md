@@ -1,32 +1,26 @@
-# ![Typora Icon](https://github.com/8rents/_/blob/i/icons/h1/typora.png?raw=true) Typora
+# ![Typora Icon](https://raw.githubusercontent.com/8rents/_/i/icons/h1/typora.png) Typora Settings - *for Windows*
 
-> ***Brent's Typora Settings & Preferences***
-
+> *Keeping my favorite markdown editors settings in sync*
 ---
 
 ## How to use this repository
 
-### Windows
-
 To install Typora on Windows and restore it’s settings:
 
-1. Clone this repo onto your computer to:
+1. ### Clone this repo onto your computer to the following location:
    ```bash
    $HOME\AppData\Roaming\Typora
    ```
 
-2. Then Install Typora using one of the methods below:
+2. ### Install Typora using one of the methods below:
 
-   * **[Install Typora Manually with direct download link](https://download.typora.io/windows/typora-setup-x64.exe)**
-   * Install with `scoop`
-     Have scoop installed, then run the following command:
+   * #### [Install Typora Manually with direct download link](https://download.typora.io/windows/typora-setup-x64.exe)
+   * #### Install with `scoop`    
+     Have scoop installed, then run the following command in PowerShell:
      ```powershell
-   	  scoop install typora
-   	```
-   
-   
-
-
+     scoop install typora
+     ```
+     
 ---
 
-**🤍2024 [Brenton Holiday](https://brenton.holiday/links)**
+**<3** *2025 by* **[8rents](https://github.com/8rents?tab=repositories)**
