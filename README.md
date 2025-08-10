@@ -1,4 +1,4 @@
-# ![Typora Icon](https://raw.githubusercontent.com/8rents/_/i/icons/h1/typora.png) Typora Settings - *for Windows*
+# ![Typora Icon](https://raw.githubusercontent.com/8rents/_/i/icons/h1/typora.png) Typora Settings (*for Windows*)
 
 > *Keeping my favorite markdown editors settings in sync*
 ---
